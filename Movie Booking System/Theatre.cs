@@ -6,6 +6,8 @@ public class Theatre
 
     private Stack<Seating> seatStack = new Stack<Seating>();
     private int availableSeats;
+    //keeps count of how many seats available at all times
+    
     
     
     public void Run()
