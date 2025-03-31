@@ -1,4 +1,5 @@
 using System.Dynamic;
+using MovieTheatre;
 namespace MovieTheatre
 {
 
@@ -20,7 +21,6 @@ public class Seating
 }
 
 }
-
 
 
 

@@ -33,7 +33,7 @@ class Program
             string input = Console.ReadLine();
             if(int.Parse(input) > 10)
             {
-                Console.WriteLine("No more than 10 tickets can purchase at once!");
+                Console.WriteLine("No more than 10 tickets can be purchased at once!");
 
             }
             else if(int.Parse(input) < 0)
@@ -53,7 +53,7 @@ class Program
                 }
             }  
         }
-        catch(Exception e)
+        catch(ArgumentException e)
         {
             Console.WriteLine(e.Message);
         }
