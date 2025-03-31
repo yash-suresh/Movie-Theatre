@@ -1,0 +1,14 @@
+/Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/bin/Debug/net9.0/Movie Booking System
+/Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/bin/Debug/net9.0/Movie Booking System.deps.json
+/Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/bin/Debug/net9.0/Movie Booking System.runtimeconfig.json
+/Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/bin/Debug/net9.0/Movie Booking System.dll
+/Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/bin/Debug/net9.0/Movie Booking System.pdb
+/Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/obj/Debug/net9.0/Movie Booking System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/obj/Debug/net9.0/Movie Booking System.AssemblyInfoInputs.cache
+/Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/obj/Debug/net9.0/Movie Booking System.AssemblyInfo.cs
+/Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/obj/Debug/net9.0/Movie Booking System.csproj.CoreCompileInputs.cache
+/Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/obj/Debug/net9.0/Movie Booking System.dll
+/Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/obj/Debug/net9.0/refint/Movie Booking System.dll
+/Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/obj/Debug/net9.0/Movie Booking System.pdb
+/Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/obj/Debug/net9.0/Movie Booking System.genruntimeconfig.cache
+/Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/obj/Debug/net9.0/ref/Movie Booking System.dll
