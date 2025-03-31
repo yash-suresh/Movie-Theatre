@@ -7,6 +7,7 @@ public class Theatre
     private Stack<Seating> seatStack = new Stack<Seating>();
     private int availableSeats;
     
+    
     public void Run()
     {
         InitialiseSeats();
