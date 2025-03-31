@@ -11,6 +11,7 @@ public class Seating
     public bool isBooked {get; private set;}
 
     public Seating(string seat)
+    //constructor which initialises all the variables.
     {
         seatNumber = seat;
         isBooked = false;

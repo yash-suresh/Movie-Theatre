@@ -12,3 +12,4 @@
 /Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/obj/Debug/net9.0/Movie Booking System.pdb
 /Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/obj/Debug/net9.0/Movie Booking System.genruntimeconfig.cache
 /Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/obj/Debug/net9.0/ref/Movie Booking System.dll
+/Users/yashsuresh/yash/C#/Movie Booking System/Movie Booking System/obj/Debug/net9.0/Movie Booking System.sourcelink.json
